@@ -24,7 +24,7 @@ function Introdiv()
     <h3>Hello, It's Me</h3>
     <h1>Mohan satya prasad</h1>
     <h3>And I'm a <span>Frontend Devoloper</span></h3>
-    <p>Member of GDSC WEB DEVELOPMENT TEAM.</p>
+    <p>MEMBER of GDSC WEB DEVELOPMENT TEAM.</p>
 
     <div className="socialmedia">
         <a href="render.com" ><i class="fa-brands fa-facebook"></i></a>
