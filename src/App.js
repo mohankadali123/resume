@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 // import imgs from './images/port11.png'
 
@@ -6,13 +5,13 @@ function Header()
 {
   return (
     <header className="header">
-        <a href="#" className="logo">Portfolio.</a>
+        <a href="render.com" className="logo">Portfolio.</a>
 
         <nav className="navbar">
-            <a href="#">Home</a>
-            <a href="#">About</a>
-            <a href="#">Skills</a>
-            <a href="#">Projects</a>
+            <a href="render.com">Home</a>
+            <a href="render.com">About</a>
+            <a href="render.com">Skills</a>
+            <a href="render.com">Projects</a>
         </nav>
     </header>
   )
@@ -28,13 +27,12 @@ function Introdiv()
     <p>Actually now i am practicing React js that'swhy i made this.</p>
 
     <div className="socialmedia">
-        <a href="#" ><i class="fa-brands fa-facebook"></i></a>
-        <a href="#" ><i class="fa-brands fa-instagram"></i></a>
-        <a href="#" ><i class="fa-brands fa-linkedin"></i></a>
-        <a href="#" ><i class="fa-brands fa-twitter"></i></a>
+        <a href="render.com" ><i class="fa-brands fa-facebook"></i></a>
+        <a href="render.com" ><i class="fa-brands fa-instagram"></i></a>
+        <a href="render.com" ><i class="fa-brands fa-linkedin"></i></a>
+        <a href="render.com" ><i class="fa-brands fa-twitter"></i></a>
     </div>
 
-    <a href="#" className="btn">View my Resume</a>
 </div>
   )
 }
