@@ -1,0 +1,56 @@
+[
+    {
+      "img": "https://i.pinimg.com/564x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg",
+      "text": "python"
+    },
+    {
+        "img": "https://i.pinimg.com/236x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg",
+        "text": "JAVA"
+      },
+    {
+      "img": "https://i.pinimg.com/236x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg",
+      "text": "C language"
+    },
+    {
+        "img": "https://i.pinimg.com/236x/05/97/4a/05974a4d1da1deac6470d2e87aa8c101.jpg",
+        "text": "C++"
+      }
+      ,
+    {
+        "img": "https://i.pinimg.com/236x/e4/d6/00/e4d60039da734d56fb8e10db1d984105.jpg",
+        "text": "Django"
+      }
+      ,
+    {
+        "img": "https://i.pinimg.com/236x/ba/06/3e/ba063e5c8c82991408714d68332eb0ac.jpg",
+        "text": "SPRING BOOT"
+      },
+      {
+          "img": "https://i.pinimg.com/236x/75/c6/c5/75c6c5477fb150fbf98460cf3536ec38.jpg",
+          "text": "SPRING"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfjaW7CqnbwGc7_sdUXqlxXRRqhNWVmvba0m7QclFIwFX3zjkRkc93kv2Cg&s",
+            "text": "HIBERNATE"
+          },
+          {
+              "img": "https://i.pinimg.com/474x/ff/fa/b9/fffab961481ac172c77f22bd9a081bb7.jpg",
+              "text": "REACT JS"
+            },
+            {
+                "img": "https://i.pinimg.com/236x/0e/7d/4a/0e7d4ad55cdc3db527af6c3d72f41ad0.jpg",
+                "text": "HTML"
+              }
+              ,
+            {
+                "img": "https://i.pinimg.com/236x/5d/1c/c8/5d1cc864ae7eebae63a1c5738b446e3d.jpg",
+                "text": "CSS"
+              }
+              ,
+            {
+                "img": "https://i.pinimg.com/236x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg",
+                "text": "JS"
+              }
+              
+            
+  ]
