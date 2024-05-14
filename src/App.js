@@ -38,7 +38,7 @@ function Header() {
 
 function MyCard(props) {
   return (
-    <div className="col-lg-3 col-md-6 mb-4 col-sm-6 col-xs-5 ">
+    <div className=" col-6 col-lg-3 col-md-6 mb-4 col-sm-6">
       <div className="card h-100">
         <img src={props.img} className="card-img-top" alt="Cardimage" />
         <div className="card-body">
@@ -110,7 +110,7 @@ function Body()
     
     <div className='bg-yellow'>
     <div className='matter2'>
-      <h1 className='mb-5 mt-2' id='skills'>Skills</h1>
+      <h1 className='mb-5 mt-5' id='skills'>Skills</h1>
     </div>
       <CardList/>
     </div>
