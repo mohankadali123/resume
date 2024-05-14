@@ -69,8 +69,8 @@ function Introdiv()
     <div className="matter col-lg-6 col-md-12 col-sm-12">
     <h3>Hello, It's Me</h3>
     <h1>Mohan satya prasad</h1>
-    <h3>And I'm a <span>Frontend Devoloper</span></h3>
-    <p>Actually now i am practicing React js that'swhy i made this.</p>
+    <h3>And I'm a <span>FullStack Devoloper</span></h3>
+    <p>Web and App Devolopement co-ordinator in Google Developers Students Club | Experinced with Spring Boot, Django | Coding Enthusiast and Aspiring Software Developer</p>
 
     <div className="socialmedia">
         <a href="https://www.linkedin.com/in/mohan-satya-prasad-kadali-107304248/" ><i class="fa-brands fa-facebook"></i></a>
